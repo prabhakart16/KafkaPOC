@@ -1,0 +1,18 @@
+Open FirstProducer Project 
+Explain the code base:
+	• What is Unique Key checkbox
+	• What is Random Key
+Open Confluence Center
+	• Publish 10 Messages with Random Key & Show Partition & Offset
+	• Publish 10 Messages with Unique Key & Show Partition & Offset
+
+Open FirstDemo Project 
+Explain the code base:
+	• What is Unique Key checkbox
+	• What is Random Key
+
+	• Publish 10 Messages with Random Key & Show Partition & Offset in Consumer
+	• Publish 10 Messages with Unique Key & Show Partition & Offset in Consumer
+
+Open Consumer Group: topic1_CG1
+Publish Few Messages and show the Lag
